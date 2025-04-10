@@ -1,0 +1,6 @@
+.custom-divider {
+    height: 2px;
+    background-color: #ccc;
+    width: 90%; /* Ajuste conforme necessário */
+    max-width: 1200px; /* Evita que ela vá além do conteúdo */
+  }
